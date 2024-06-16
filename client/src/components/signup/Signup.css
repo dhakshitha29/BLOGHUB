@@ -1,0 +1,27 @@
+.form-check-input:checked{
+    background-color: #c73659;
+    border-color: #c73659;
+}
+
+.heading{
+    background-color: rgba(169,29,58);
+    color: white;
+}
+
+input:hover{
+    background-color: white;
+    border: 1px solid #c73659;
+  }
+.log{
+    background-color: rgba(169,29,58);
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+}
+
+.btn:hover{
+    background-color: white;
+    border: 1px solid rgba(169,29,58);
+    color: rgba(169,29,58);
+}

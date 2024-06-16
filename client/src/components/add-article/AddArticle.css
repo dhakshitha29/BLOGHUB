@@ -1,0 +1,23 @@
+.shadow{
+    border: 1px solid black;
+}
+
+.newart{
+    color: black;
+}
+
+.formhead{
+    background-color: rgba(169,29,58,1);
+    color: white;
+}
+
+.post{
+    background-color: rgba(169,29,58);
+    color: white;
+}
+
+.btn:hover{
+    background-color: white;
+    border: 1px solid rgba(169,29,58);
+    color: rgba(169,29,58);
+}
